@@ -41,15 +41,16 @@ book:
     - text/references.qmd
 
   site-url: https://nmfs-opensci.github.io/NOAA-tech-memo-template/
-  repo-url: https://github.com/nmfs-opensci/NOAA-tech-memo-template
+  repo-url: https://github.com/Kourtney-Burger/MinkeWhale.git
   repo-actions: [edit, source, issue]
   search: true
 
-bibliography: [text/references.bib]
+bibliography: [references.bib]
 
 execute:
   echo: false
   code-overflow: wrap
+  freeze: true
 
 format:
   docx:

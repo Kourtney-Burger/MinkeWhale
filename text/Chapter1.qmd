@@ -1,5 +1,5 @@
 ---
-title: A chapter
+title: A chapter - Minke Whales
 ---
 
 ```{r warning=FALSE, echo=FALSE, message=FALSE}
