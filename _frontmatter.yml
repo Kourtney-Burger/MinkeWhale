@@ -32,13 +32,13 @@ format:
     coverpage: true
     coverpage-bg-image: "images/cover-header-2.png"
     coverpage-header: "NOAA Technical Memorandum NMFS-XXX-##"
-    coverpage-date: "January 2023"
+    coverpage-date: "December 2022"
     coverpage-footer: |
       U.S. DEPARTMENT OF COMMERCE \
       \
       National Oceanic and Atmospheric Administration \
       National Marine Fisheries Service \
-      Northwest Fisheries Science Center
+      Southwest Fisheries Science Center
     coverpage-theme:
       title-style: "plain"
       title-align: "left"
