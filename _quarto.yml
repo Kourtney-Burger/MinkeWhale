@@ -38,7 +38,7 @@ bibliography: [references.bib]
 execute:
   echo: false
   code-overflow: wrap
-  freeze: true
+#  freeze: true
 
 format:
   docx:

@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-tech-memo-template/index.html</loc>
-    <lastmod>2022-12-13T17:41:02.059Z</lastmod>
+    <lastmod>2022-12-13T19:18:51.077Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-tech-memo-template/text/Chapter1.html</loc>
-    <lastmod>2022-12-13T17:50:13.136Z</lastmod>
+    <lastmod>2022-12-13T19:18:56.193Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-tech-memo-template/text/conclusion.html</loc>
-    <lastmod>2022-12-13T17:48:12.945Z</lastmod>
+    <lastmod>2022-12-13T19:18:51.079Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-tech-memo-template/text/references.html</loc>
-    <lastmod>2022-12-13T17:48:13.907Z</lastmod>
+    <lastmod>2022-12-13T19:18:51.079Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/NOAA-tech-memo-template/Minke-Whale-Report.docx</loc>
+    <lastmod>2022-12-13T19:18:38.375Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/NOAA-tech-memo-template/Minke-Whale-Report.pdf</loc>
+    <lastmod>2022-12-13T19:18:50.479Z</lastmod>
   </url>
 </urlset>
