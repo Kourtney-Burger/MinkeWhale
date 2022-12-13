@@ -3,38 +3,26 @@ project:
   output-dir: docs
 
 book:
-  title: An example tech memo
+  title: Minke Whale Report
   subtitle: The subtitle
-  date: January 2023
+  date: December 2022
   downloads: [pdf, docx]
   author:
-  - name: Jane Doe
+  - name: Kourtney Burger
     affiliations:
-      - id: nwfsc-cb
-        name: Northwest Fisheries Science Center
-        department: Conservation Biology Division
+      - id: swfsc-mmtd
+        name: Southwest Fisheries Science Center
+        department: Marine Mammal and Turtle Division
         address: 
-          - 2725 Montlake Boulevard East
-          - Seattle, Washington 98112
-      - id: uw-safs
-        name: University of Washington
-        department: School of Aquatic and Fisheries Sciences
-  - name: Eva Nováková
+          - 8901 La Jolla Shores Drive
+          - La Jolla, California 92037
+    email: kourtney.burger@noaa.gov
+  - name: Shannon Rankin
     affiliations:
-      - ref: uw-safs
-  - name: Matti Meikäläinen
-    email: matti@jy.fi
-    affiliations:
-      - name: University of Kemijärvi
-        department: Department of Biological and Environmental Science
-        address: Kylmäniementie 79, 98120, KEMIJÄRVI, Finland
-  - name: Ashok Kumar
-    affiliations:
-      - name: University of Minnesota
-        department: Department of Mathematics
-      - name: HØnefoss Institute
-        address: R Tradição 35, Portugal 2950-726
+      - ref: swfsc-mmtd
+      
   chapters:
+#comment out chapters that I am not actively working on
     - index.qmd
     - text/Chapter1.qmd
     - text/conclusion.qmd
