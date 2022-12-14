@@ -28,7 +28,7 @@ book:
     - text/conclusion.qmd
     - text/references.qmd
 
-  site-url: https://nmfs-opensci.github.io/NOAA-tech-memo-template/
+  site-url: https://kourtney-burger.github.io/MinkeWhale/
   repo-url: https://github.com/Kourtney-Burger/MinkeWhale.git
   repo-actions: [edit, source, issue]
   search: true
